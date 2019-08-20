@@ -1,2 +1,4 @@
 # TensorFlow-for-AI-ML-and-DL
-Project- TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+TensorFlow
+
+TensorFlow tutorial for Artificial Intelligence, Machine Learning, and Deep Learning. This repository contains code related to the tutorial of tensorflow. 
